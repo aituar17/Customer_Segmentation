@@ -35,6 +35,10 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 
 ## 📈 Results & Insights
 - **Cluster Profiles (k = 3)**
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
 - **Cluster Profiles (k = 4)**
 
 ## 💡 Business Implications
