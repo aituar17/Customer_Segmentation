@@ -15,5 +15,11 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
   - `UnitPrice` - price per item
   - `Country` - customer’s country
 
+## 🛠️ Methodology
+1. **Data Cleaning**
+2. **Feature Engineering (RFM)**
+3. **Preprocesing**
+4. **Clustering**
+
 
 
