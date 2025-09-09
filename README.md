@@ -17,12 +17,12 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 
 ## 🛠️ Methodology
 1. **Data Cleaning**
-   - Removed missing `CustomerID` values
-   - Excluded cancelled orders (`InvoiceNo` starting with “C”)
-   - Kept only positive `Quantity` and `UnitPrice`
-   - Created `TotalPrice = Quantity × UnitPrice`
+  - Removed missing `CustomerID` values
+  - Excluded cancelled orders (`InvoiceNo` starting with “C”)
+  - Kept only positive `Quantity` and `UnitPrice`
+  - Created `TotalPrice = Quantity × UnitPrice`
 2. **Feature Engineering (RFM)**
-   - 
+  -
 4. **Preprocesing**
 5. **Clustering**
 
