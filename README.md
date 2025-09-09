@@ -8,6 +8,8 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 - **Period:** Dec 2010 – Dec 2011
 - **Size:** ~540,000 rows, 8 variables
 - **Key Fields:**
+    - f\
+    - ff
 
 
 
