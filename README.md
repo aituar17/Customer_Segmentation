@@ -17,14 +17,21 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 
 ## 🛠️ Methodology
 1. **Data Cleaning**
-  - Removed missing `CustomerID` values
-  - Excluded cancelled orders (`InvoiceNo` starting with “C”)
-  - Kept only positive `Quantity` and `UnitPrice`
-  - Created `TotalPrice = Quantity × UnitPrice`
+    - Removed missing `CustomerID` values
+    - Excluded cancelled orders (`InvoiceNo` starting with “C”)
+    - Kept only positive `Quantity` and `UnitPrice`
+    - Created `TotalPrice = Quantity × UnitPrice`
 2. **Feature Engineering (RFM)**
-  -
-4. **Preprocesing**
-5. **Clustering**
+    - **Recency:** days since last purchase
+    - **Frequency:** number of unique invoices
+    - **Monetary:** total spend
+3. **Preprocesing**
+    - Applied log-transform to reduce skewness
+    - Standardized features using `StandardScaler`
+4. **Clustering**
+- Used **Elbow Method** and **Silhouette** Score to test cluster counts
+- Fit KMeans clustering for **k = 3 and k = 4**
+- Compared profiles to choose the most actionable segmentation
 
 
 
