@@ -29,9 +29,9 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
     - Applied log-transform to reduce skewness
     - Standardized features using `StandardScaler`
 4. **Clustering**
-- Used **Elbow Method** and **Silhouette** Score to test cluster counts
-- Fit KMeans clustering for **k = 3 and k = 4**
-- Compared profiles to choose the most actionable segmentation
+    - Used **Elbow Method** and **Silhouette** Score to test cluster counts
+    - Fit KMeans clustering for **k = 3 and k = 4**
+    - Compared profiles to choose the most actionable segmentation
 
 
 
