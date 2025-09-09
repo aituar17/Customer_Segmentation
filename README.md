@@ -33,6 +33,10 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
     - Fit KMeans clustering for **k = 3 and k = 4**
     - Compared profiles to choose the most actionable segmentation
 
+## 📈 Results & Insights
+- **Cluster Profiles (k = 3)**
+- **Cluster Profiles (k = 4)**
+
 ## 💡 Business Implications
 - **VIPs →** loyalty perks, exclusive rewards
 - **Regular Shoppers →** upsell and seasonal offers
