@@ -37,9 +37,9 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 - **Cluster Profiles (k = 3)**
     | Cluster  | Persona | Characteristic  | Suggested Action |
     | ------------- | ------------- | ------------- | ------------- |
-    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+    | 0  | Regular Shoppers  | Recency ~46 days, 3–4 orders, ~$1.4k spend  | Upsell with bundles or seasonal campaigns  |
+    | 1  | VIP / Loyal High-Value  | Very recent (~13 days), 14 orders, ~$8k spend  | Reward with loyalty perks, exclusive offers  |
+    | 2  | At-Risk / Dormant  | Long inactive (~161 days), ~1 order, ~$350 spend  | Win-back discounts, targeted reactivation  |
 - **Cluster Profiles (k = 4)**
 
 ## 💡 Business Implications
