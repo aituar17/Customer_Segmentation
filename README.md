@@ -87,6 +87,7 @@ cd Customer_Segmentation
 pip install -r requirements.txt
 ```
 ## 📂 Project Structure
+```plaintext
 Customer_Segmentation/
 ├── data/ # Dataset folder (not uploaded to GitHub due to size; see data/README.md)
 ├── images/ # Saved plots for README (heatmaps, bar plots, scatter plots)
@@ -100,3 +101,4 @@ Customer_Segmentation/
 ├── .gitignore # Ignore large files (e.g., dataset)
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies for reproducibility
+```
