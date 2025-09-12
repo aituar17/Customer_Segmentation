@@ -91,10 +91,6 @@ Customer_Segmentation/
 ├── data/ # Dataset folder (not uploaded to GitHub due to size; see data/README.md)
 ├── images/ # Saved plots for README (heatmaps, bar plots, scatter plots)
 │ └── zscore_heatmaps.png
-│ └── barplots_k3.png
-│ └── barplots_k4.png
-│ └── scatter_k3.png
-│ └── scatter_k4.png
 ├── notebooks/ # Jupyter notebook with full analysis
 │ └── Customer_Segmentation.ipynb
 ├── .gitignore # Ignore large files (e.g., dataset)
