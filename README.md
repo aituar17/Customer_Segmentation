@@ -41,6 +41,15 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
     | 1  | VIP / Loyal High-Value  | Very recent (~13 days), 14 orders, ~$8k spend  | Reward with loyalty perks, exclusive offers  |
     | 2  | At-Risk / Dormant  | Long inactive (~161 days), ~1 order, ~$350 spend  | Win-back discounts, targeted reactivation  |
 - **Cluster Profiles (k = 4)**
+    | Cluster  | Persona | Characteristic  | Suggested Action |
+    | ------------- | ------------- | ------------- | ------------- |
+    | 0  | New / Low-Spend Recent  | Recent (~17 days), 2 orders, ~$545 spend  | Onboarding emails, encourage repeat purchase  |
+    | 1  | Established Regulars  | Recency ~68 days, 4 orders, ~$1.8k spend  | Maintain engagement, cross-sell or upsell  |
+    | 2  | At-Risk / Dormant  | Long inactive (~179 days), ~1 order, ~$350 spend  | Reactivation campaigns, discounts  |
+    | 3  | VIP / Loyal High-Value  | Very recent (~10 days), 14 orders, ~$8.3k spend  | Exclusive rewards, maintain strong loyalty  |
+
+## 🔹 Visualizations
+
 
 ## 💡 Business Implications
 - **VIPs →** loyalty perks, exclusive rewards
