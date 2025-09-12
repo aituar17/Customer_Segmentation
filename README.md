@@ -85,3 +85,5 @@ Clone this repository and install dependencies:
 git clone https://github.com/aituar17/Customer_Segmentation.git
 cd Customer_Segmentation
 pip install -r requirements.txt
+```
+
