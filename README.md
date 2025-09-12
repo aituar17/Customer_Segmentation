@@ -49,7 +49,7 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
     | 3  | VIP / Loyal High-Value  | Very recent (~10 days), 14 orders, ~$8.3k spend  | Exclusive rewards, maintain strong loyalty  |
 
 ## 🔹 Visualizations
-
+### Heatmap of z-scores across clusters
 
 ## 💡 Business Implications
 - **VIPs →** loyalty perks, exclusive rewards
