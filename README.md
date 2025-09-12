@@ -50,6 +50,7 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
 
 ## 🔹 Visualizations
 ### Heatmap of z-scores across clusters
+![Heatmap](images/zscore_heatmaps.png)
 
 ## 💡 Business Implications
 - **VIPs →** loyalty perks, exclusive rewards
