@@ -14,6 +14,8 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and KMeans clus
   - `Quantity` - number of items purchased
   - `UnitPrice` - price per item
   - `Country` - customer’s country
+⚠️ Note: The dataset is not included in this repository due to size limitations.  
+Please download it from Kaggle and place it in the `data/` folder.
 
 ## 🛠️ Methodology
 1. **Data Cleaning**
