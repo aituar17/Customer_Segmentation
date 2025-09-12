@@ -1,0 +1,5 @@
+#ignore all files in data folder
+data/*
+
+#but keep a README.md file in data folder (so folder isn’t empty)
+!data/README.md
