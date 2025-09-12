@@ -77,3 +77,11 @@ Please download it from Kaggle and place it in the `data/` folder.
 - **Python:** pandas, numpy, scikit-learn, seaborn, matplotlib
 - **Clustering:** KMeans
 - **Visualization:** seaborn, matplotlib
+
+## ⚙️ Installation
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/aituar17/Customer_Segmentation.git
+cd Customer_Segmentation
+pip install -r requirements.txt
