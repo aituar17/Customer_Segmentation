@@ -99,6 +99,7 @@ Customer_Segmentation/
 │ └── scatter_k4.png
 ├── notebooks/ # Jupyter notebook with full analysis
 │ └── Customer_Segmentation.ipynb
+│ └── Customer_Segmentation.html
 ├── .gitignore # Ignore large files (e.g., dataset)
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies for reproducibility
